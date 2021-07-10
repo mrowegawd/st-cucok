@@ -266,4 +266,4 @@ Refer to [https://st.suckless.org/](https://st.suckless.org/) for details on the
 
 ## Credit
 
-https://github.com/bakkeby/st-flexipatch
+Taken from: https://github.com/bakkeby/st-flexipatch
